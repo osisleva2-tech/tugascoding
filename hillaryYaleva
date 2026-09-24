@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profil Saya</title>
+</head>
+<body>
+
+    <h1>Profil Saya</h1>
+
+    <h2>Identitas</h2>
+    <p>Nama: Hillary Yaleva Riasha Aryawan</p>
+    <p>Kelas: 9B</p>
+    <p>Sekolah:SMP Charitas Jakarta</p>
+    <p>Hobi: Desain</p>
+
+    <h2>Foto Saya</h2>
+    <img src="foto.jpg" width="300" alt="Foto Profil Saya">
+
+    <h2>Video YouTube</h2>
+    <!-- Ganti ID_VIDEO dengan kode unik dari video YouTube yang kamu pilih -->
+    <iframe width="560" height="315" src="https://youtu.be/fsUYIAR4DSU?si=n5xL-YCNmkuazmaA" allowfullscreen>
+    </iframe>
+
+</body>
+</html>
